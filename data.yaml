@@ -1,0 +1,6 @@
+path: dataset
+train: C:/Users/HP/Desktop/LEI/3ANO/2Semestre/AOOP/TP-Computer-Vision/dataset/train/images
+val: C:/Users/HP/Desktop/LEI/3ANO/2Semestre/AOOP/TP-Computer-Vision/dataset/val/images
+
+names:
+  0: suitcase

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/HP/Desktop/LEI/3ANO/2Semestre/AOOP/TP-Computer-Vision/runs/mlflow/315779681795979557/79fc78c1cde5497ca182225aa579655b/artifacts
+end_time: 1747856006046
+entry_point_name: ''
+experiment_id: '315779681795979557'
+lifecycle_stage: active
+run_id: 79fc78c1cde5497ca182225aa579655b
+run_name: train5
+run_uuid: 79fc78c1cde5497ca182225aa579655b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747853879803
+status: 3
+tags: []
+user_id: HP

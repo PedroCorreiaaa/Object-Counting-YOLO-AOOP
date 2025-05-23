@@ -1,0 +1,6 @@
+--- REPORT for 1070679382-preview ---
+Total objects IN: 6
+Total objects OUT: 4
+Average time between entries (IN): 2.46 s
+Average time between exits (OUT): 4.13 s
+Percentage of claimed bags: 33.33 %
