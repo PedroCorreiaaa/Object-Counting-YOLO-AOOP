@@ -32,8 +32,3 @@ Projeto em Python para contagem automática de objetos (explica aqui o que o pro
 1. Caso queira testar com um outro vídeo deve colocar o mesmo no diretório /videos, e no ficheiro script.py deve alterar o caminho do video e se necessário reconfigurar as linhas de detação para que detete corretamente a passagem dos objetos.
     ```bash
     python script.py
-
-
-
-
-
