@@ -24,14 +24,12 @@ Projeto em Python para contagem automática de objetos (explica aqui o que o pro
 ---
 
 ## Treinar modelo
-
-Para treinar o modelo deve ter o dataset no diretório do projeto e formular o ficheiro data.yaml da maneira correta.  
+1. Para treinar o modelo deve ter o dataset no diretório do projeto e formular o ficheiro data.yaml da maneira correta.  
     ```bash
     python train.py
 
 ## Execução
-
-Caso queira testar com um outro vídeo deve colocar o mesmo no diretório /videos, e no ficheiro script.py deve alterar o caminho do video e se necessário reconfigurar as linhas de detação para que detete corretamente a passagem dos objetos.
+1. Caso queira testar com um outro vídeo deve colocar o mesmo no diretório /videos, e no ficheiro script.py deve alterar o caminho do video e se necessário reconfigurar as linhas de detação para que detete corretamente a passagem dos objetos.
     ```bash
     python script.py
 
